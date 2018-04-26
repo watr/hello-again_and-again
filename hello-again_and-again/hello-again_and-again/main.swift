@@ -1,6 +1,8 @@
 
 import Foundation
 
+let currntVersionDescription = "hello-again_and-again 0.0.1"
+
 enum How {
     case print
     case fputs
